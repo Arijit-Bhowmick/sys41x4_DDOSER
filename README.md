@@ -1,9 +1,10 @@
-##-------------------------------------------------------
+## -------------------------------------------------------
 # PY3_SEC2020_DDOS_ATTACKER
-##-------------------------------------------------------
+## -------------------------------------------------------
 ## Simple and powerful DDOS ATTACKER
 ----------------------------------------------------------
-![PY3_SEC2020_DDOS_ATTACKER]('https://github.com/Arijit-Bhowmick/PY3_SEC2020_DDOS_ATTACKER/blob/master/Pictures/PY3_SEC2020_DDOS_ATTACKER.png')
+![PY3_SEC2020_DDOS_ATTACKER](https://github.com/Arijit-Bhowmick/PY3_SEC2020_DDOS_ATTACKER/blob/master/Pictures/PY3_SEC2020_DDOS_ATTACKER.png)
+
 ## HOW TO USE ?
 It is simple to use this script.
 1. Run the script as
@@ -24,16 +25,16 @@ It is simple to use this script.
 ## Tested in 'Kali Linux 2020.1b' and 'Python 3.7.5'
 ## Test Results
 	Only PY3_SEC2020_DDOS_ATTACKER work
-	![DDOS_attacker_only]('https://github.com/Arijit-Bhowmick/PY3_SEC2020_DDOS_ATTACKER/blob/master/Videos/DDOS_attacker_only.mp4')
+	![DDOS_attacker_only](https://github.com/Arijit-Bhowmick/PY3_SEC2020_DDOS_ATTACKER/blob/master/Videos/DDOS_attacker_only.mp4)
 	
 	PY3_SEC2020_DDOS_ATTACKER socket_connection_error
-	![socket_or_connection_error]('https://github.com/Arijit-Bhowmick/PY3_SEC2020_DDOS_ATTACKER/blob/master/Videos/socket_or_connection_error.mp4')
+	![socket_or_connection_error](https://github.com/Arijit-Bhowmick/PY3_SEC2020_DDOS_ATTACKER/blob/master/Videos/socket_or_connection_error.mp4)
 	
 	PY3_SEC2020_DDOS_ATTACKER tested with Wireshark
-	![DDOS_attacker_with_wireshark]('https://github.com/Arijit-Bhowmick/PY3_SEC2020_DDOS_ATTACKER/blob/master/Videos/DDOS_attacker_with_wireshark.mp4')
+	![DDOS_attacker_with_wireshark](https://github.com/Arijit-Bhowmick/PY3_SEC2020_DDOS_ATTACKER/blob/master/Videos/DDOS_attacker_with_wireshark.mp4)
 	
 	PY3_SEC2020_DDOS_ATTACKER Processor+Memory Usage
-	![processor+Memory_power]('https://github.com/Arijit-Bhowmick/PY3_SEC2020_DDOS_ATTACKER/blob/master/Videos/processor%2BMemory_power.mp4')
+	![processor+Memory_power](https://github.com/Arijit-Bhowmick/PY3_SEC2020_DDOS_ATTACKER/blob/master/Videos/processor%2BMemory_power.mp4)
 	
 	
 ### This script does't work in Python 2.x.x
