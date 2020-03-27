@@ -3,7 +3,7 @@
 ##-------------------------------------------------------
 ## Simple and powerful DDOS ATTACKER
 ----------------------------------------------------------
-![PY3_SEC2020_DDOS_ATTACKER]('https://github.com/Arijit-Bhowmick/PY3_SEC2020_DDOS_ATTACKER/blob/master/')
+![PY3_SEC2020_DDOS_ATTACKER]('https://github.com/Arijit-Bhowmick/PY3_SEC2020_DDOS_ATTACKER/blob/master/Pictures/PY3_SEC2020_DDOS_ATTACKER.png')
 ## HOW TO USE ?
 It is simple to use this script.
 1. Run the script as
