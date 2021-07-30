@@ -1,9 +1,9 @@
 ## -------------------------------------------------------
-# PY3_SEC2020_DDOS_ATTACKER
+# sys41x4_DDOSER
 ## -------------------------------------------------------
 ## Simple and powerful DDOS ATTACKER
 ----------------------------------------------------------
-![PY3_SEC2020_DDOS_ATTACKER](https://github.com/Arijit-Bhowmick/PY3_SEC2020_DDOS_ATTACKER/blob/master/Pictures/PY3_SEC2020_DDOS_ATTACKER.png)
+![sys41x4_DDOSER](https://github.com/Arijit-Bhowmick/PY3_SEC2020_DDOS_ATTACKER/blob/master/Pictures/PY3_SEC2020_DDOS_ATTACKER.png)
 
 ## HOW TO USE ?
 It is simple to use this script.
@@ -37,5 +37,5 @@ It is simple to use this script.
 	[![processor+Memory_power](https://github.com/Arijit-Bhowmick/PY3_SEC2020_DDOS_ATTACKER/blob/master/Pictures/processor%2BMemory_power.png)](https://github.com/Arijit-Bhowmick/PY3_SEC2020_DDOS_ATTACKER/blob/master/Videos/processor%2BMemory_power.mp4)
 	
 	
-### This script does't work in Python 2.x.x
+### This script does't work in Python 2.x
 ---------------------------------------------------------
